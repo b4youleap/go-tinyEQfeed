@@ -7,3 +7,5 @@ Yes, it could be done with javascript but this is a Go experiment and a wasm lea
 ### Let's see how it goes.
 
 from https://github.com/tinygo-org/tinygo/tree/release/src/examples/wasm
+
+<sad face> I received an error "error: requires go version 1.18 through 1.20, got go1.21"
