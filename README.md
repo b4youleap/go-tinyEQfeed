@@ -19,3 +19,4 @@ Then build the light wasm file:
 Run to test:
 ```tinygo run go-tinyEQfeed.go```
 
+08-20: core tinygo app changed to Println output; researching html changes needed now. 
